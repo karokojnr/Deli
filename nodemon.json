@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "karokojnr",
+        "MONGO_PASSWORD": "karokojnr",
+        "MONGO_DEFAULT_PASSWORD": "deli",
+        "STRIPE_KEY": "sk_test_BMD9aaviqJzK0hlROg2KMRbD"
+    }
+}
