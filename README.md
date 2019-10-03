@@ -1,11 +1,12 @@
 # Deli![alt ](https://img.shields.io/badge/deli-E--commerce-green)
-:shopping_cart:E-Commerce shop
+:shopping_cart:![alt ](https://img.shields.io/badge/deli-E--commerce-green)
 
 ## Uses
-*Express js
-*EJS
-*MVC Pattern
-*Mongoose
+
+- [x] Express js
+- [x] EJS
+- [x] MVC Pattern
+- [x] Mongoose
 
 
 ## Contributing
