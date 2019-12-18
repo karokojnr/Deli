@@ -5,7 +5,6 @@ const { body } = require("express-validator/check");
 
 const adminController = require("../controllers/admin");
 const isAuth = require("../middleware/is-auth");
-const upload = require("../multer");
 
 const router = express.Router();
 
@@ -18,7 +17,6 @@ router.get("/products", isAuth, adminController.getProducts);
 // /admin/add-product => POST
 router.post(
   "/add-product",
-  
   [
     body("title")
       .isString()
