@@ -1,6 +1,12 @@
 const multer = require("multer");
 const cloudinary = require("cloudinary").v2;
 const path = require('path');
+const express = require('express');
+// Init app
+const app = express()
+// Set static folder
+app.use(express.static('./public'));
+
 
 const fileHelper = require("../util/file");
 const { validationResult } = require("express-validator/check");
