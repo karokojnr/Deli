@@ -3,7 +3,7 @@
 
 ![Image of Spese](https://github.com/karokojnr/Deli/blob/master/Screenshot_1.png)
 
-![Image of Spese](https://github.com/karokojnr/Deli/blob/master/Screenshot_10.png)
+![Image of Spese](https://github.com/karokojnr/Deli/blob/master/Screenshot_9.png)
 
 ![Image of Spese](https://github.com/karokojnr/Deli/blob/master/Screenshot_3.png)
 
