@@ -49,6 +49,8 @@ const fileFilter = (req, file, cb) => {
     cb(null, false);
   }
 };
+var upload = multer({fileStorage:fileStorage});
+module.exports = upload;
 
 app.set("view engine", "ejs");
 app.set("views", "views");
